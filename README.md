@@ -10,3 +10,5 @@ This is a private repository containing the project I developed for fitting the 
 # Software Requirements
 
 You will need to install the following software on your system in order to run/edit the Python script.
+
+\.
