@@ -2,13 +2,11 @@
 
 Tekano Mbonani: {mbonanits@ufs.ac.za, tekano.motsoari@gmail.com}
 
-## System Docs
-
+## System Docs 📃
 A **Python** code for fitting time-series data with variability, in this case the flux variability of light-curves to extract flux rising and falling times. 
 This is a private repository containing the project I developed for fitting the light-curves data points with exponential functions, in order to determine the temporal profiles of the variability. The goodness of the fit is assessed via the normalized Chi-squared of the model and data points.
 
-## Software Requirements
-
+## Software Requirements 🔌
 You will need to install the following software on your system in order to run/edit the Python script.
 * Mac OS/ Ubuntu 18.04 OS
 * Python 3.7
