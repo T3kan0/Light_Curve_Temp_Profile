@@ -12,8 +12,8 @@ This is a private repository containing the project I developed for fitting the 
 You will need to install the following software on your system in order to run/edit the Python script.
 * Mac OS/ Ubuntu 18.04 OS
 * Python 3.7
-* Textedit/ IDE - Spyder or Jupyter-note
+* Textedit/ IDE - spyder or jupyter-notebook
 * Python libraries
   * Numpy
   * Matplotlib.pyplot
-  * Sci-kit
+  * Scipy
