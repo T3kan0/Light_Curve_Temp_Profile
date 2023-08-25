@@ -26,7 +26,7 @@ The fitting model is build with the following exponential function:
 
 $F(t) = F_{c} + 2F_{0} \left( e^{\frac{t_{0} - t}{t_{r}}} +  e^{\frac{t - t_{0}}{t_{f}}} \right)^{-1}$,
 
-where $F_{c}$ is a constant baseline flux, $F_{0}$ is profile amplitude, $t_{f}$ and $t_{r}$ are the profile rise and fall times.
+where $F_{c}$ is a constant baseline flux, $F_{0}$ is a profile amplitude, $t_{f}$ and $t_{r}$ are the profile rise and fall times. The code can fit time-series data with profiles as many as there are in the variability, then combine them with $F_{c}$.
 
 ### Code Output
  
