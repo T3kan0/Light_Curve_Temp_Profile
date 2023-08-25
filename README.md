@@ -20,8 +20,7 @@ You will need to install the following software on your system in order to run/e
   
 
 ### About the Data
-
-See <(https://fermi.gsfc.nasa.gov/ssc/data/analysis/scitools/)>
+The data used here was obtained from the ***Fermi*** Large Area Telescope made available to the research public on https://fermi.gsfc.nasa.gov/ssc/data/analysis/scitools/.
 
 ### Code Output
  
