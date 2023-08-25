@@ -27,7 +27,9 @@ $F(t) = F_{c} + 2F_{0} \left( e^{\frac{t_{0} - t}{t_{r}}} +  e^{\frac{t - t_{0}}
 where $F_{c}$ is a constant baseline flux, $F_{0}$ is a profile amplitude, $t_{0}$ is the approximate maximum time, $t_{f}$ and $t_{r}$ are the profile rise and fall times. The code can fit time-series data with profiles as many as there are in the variability, then combine them with $F_{c}$. The user must provide the code with initial, guess paramaters for the profile to be fit, the user must provide all the $F_{c}$, $F_{0}$, $t_{0}$, $t_{f}$, $t_{r}$ parameters.
 
 ### Code Output 📈 
-When run, the code will produce a visualization of the fitted time-series, as well as the optimized output parameters from ***scipy.optimize***, see below. Additionally, the code makes use of the output rise and fall times to determine the  and flux doubling times, i.e.,
+When run, the code will produce a visualization of the fitted time-series, as well as the optimized output parameters from ***scipy.optimize***, see below. Additionally, the code makes use of the output rise and fall times to determine the skewness of the exponential profile and flux doubling times, i.e.,
+
 $t_{d} = ln(2)t_{r}$
+
  ![picture alt](https://github.com/T3kan0/Light_Curve_Temp_Profile/blob/main/3C279_Temp_Prof.png)
  ![picture alt](https://github.com/T3kan0/Light_Curve_Temp_Profile/blob/main/Opt_params.png)
