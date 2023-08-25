@@ -17,3 +17,5 @@ You will need to install the following software on your system in order to run/e
   * Numpy
   * Matplotlib
   * Scipy
+  
+  ![picture alt](http://via.placeholder.com/200x150 "Title is optional")
