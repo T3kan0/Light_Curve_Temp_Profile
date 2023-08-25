@@ -20,7 +20,7 @@ You will need to install the following software on your system in order to run/e
   
 
 ### About the Data
-The data used here was obtained from the ***Fermi*** Large Area Telescope (LAT) made available to the research public on https://fermi.gsfc.nasa.gov/ssc/data/analysis/scitools/. The data comprise of gamma-ray (0.1-300 GeV) flux and photon energies from the blazar 3C 279, between February 16 and April 22, 2017.
+The data used here was obtained from the ***Fermi*** Large Area Telescope (LAT) made available to the research public on https://fermi.gsfc.nasa.gov/ssc/data/analysis/scitools/. The data comprise of gamma-ray (0.1-300 GeV) integral flux and photon energies from the blazar 3C 279, between February 16 and April 22, 2017.
 
 ### Code Output
  
