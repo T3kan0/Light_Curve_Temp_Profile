@@ -15,5 +15,5 @@ You will need to install the following software on your system in order to run/e
 * Textedit/ IDE - spyder or jupyter-notebook
 * Python libraries
   * Numpy
-  * Matplotlib.pyplot
+  * Matplotlib
   * Scipy
