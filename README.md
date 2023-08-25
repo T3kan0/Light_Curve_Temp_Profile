@@ -29,7 +29,8 @@ where $F_{c}$ is a constant baseline flux, $F_{0}$ is a profile amplitude, $t_{0
 ### Code Output 📈 
 When run, the code will produce a visualization of the fitted time-series, as well as the optimized output parameters from ***scipy.optimize***, see below. Additionally, the code makes use of the output rise and fall times to determine the skewness of the exponential profile and flux doubling times, i.e.,
 
-$t_{d} = ln(2)t_{r}$
+$t_{d} = 24ln(2)t_{r}$ (hrs).
 
+Additionally, the code calculates the Chi-Squared from the model and time-series data points. The Chi-squared is devided by the number of degrees of freedom in the model to determine the normalized Chi-squared.
  ![picture alt](https://github.com/T3kan0/Light_Curve_Temp_Profile/blob/main/3C279_Temp_Prof.png)
  ![picture alt](https://github.com/T3kan0/Light_Curve_Temp_Profile/blob/main/Opt_params.png)
