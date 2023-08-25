@@ -18,4 +18,10 @@ You will need to install the following software on your system in order to run/e
   * Matplotlib
   * Scipy
   
-  ![picture alt](https://github.com/T3kan0/Light_Curve_Temp_Profile/blob/main/3C279_Temp_Prof.png)
+
+# About the Data
+
+# Code Output
+ 
+ ![picture alt](https://github.com/T3kan0/Light_Curve_Temp_Profile/blob/main/3C279_Temp_Prof.png)
+ ![picture alt](https://github.com/T3kan0/Light_Curve_Temp_Profile/blob/main/Out_params.png)
