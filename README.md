@@ -1,6 +1,6 @@
 # Light_Curve_Temp_Profile
 
-Tekano Mbonani: {mbonanits@ufs.ac.za, tekano.motsoari@gmail.com}
+Tekano Mbonani
 
 ## System Docs 📃
 A **Python** code for fitting time-series data with variability, in this case the flux variability of light-curves to extract flux rising and falling times. 
