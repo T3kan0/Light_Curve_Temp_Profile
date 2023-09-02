@@ -19,6 +19,7 @@ You will need to install the following software on your system in order to run/e
 
 ### About the Data 💾 
 The data used here was obtained from the ***Fermi*** Large Area Telescope (LAT) made available to the research public on https://fermi.gsfc.nasa.gov/ssc/data/analysis/scitools/. The data comprise of gamma-ray (0.1-300 GeV) integral flux and photon energies from the blazar 3C 279, between February 16 and April 22, 2017. The data was analysed by myself, following standard unbinned likelihood methods, with standard ***Fermi*** science-tools.
+
 ### Profile Model 🧮
 The fitting model is build with the following exponential function:
 
@@ -32,5 +33,7 @@ When run, the code will produce a visualization of the fitted time-series, as we
 $t_{d} = 24ln(2)t_{r}$ (hrs).
 
 Additionally, the code calculates the Chi-Squared from the model and time-series data points. The Chi-squared is devided by the number of degrees of freedom in the model to determine the normalized Chi-squared. The visualization shows the flux variability as well as the gamma-ray energy that escaped during the flare, the pair of results can be used to determined the gamma-ray emission Doppler factors, the sizes of the gamma-ray emission regions, and their distances from the super-massive black hole of 3C 279.
+
  ![picture alt](https://github.com/T3kan0/Light_Curve_Temp_Profile/blob/main/3C279_Temp_Prof.png)
+ 
  ![picture alt](https://github.com/T3kan0/Light_Curve_Temp_Profile/blob/main/Opt_params.png)
