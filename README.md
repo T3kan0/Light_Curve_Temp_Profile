@@ -41,5 +41,3 @@ Additionally, the code calculates the Chi-Squared from the model and time-series
 <p align="center">
   <img align="center" width="700" height="600" src="https://github.com/T3kan0/Light_Curve_Temp_Profile/blob/main/Opt_params.png">
 </p>
- 
- ![picture alt](https://github.com/T3kan0/Light_Curve_Temp_Profile/blob/main/Opt_params.png)
