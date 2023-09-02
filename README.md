@@ -34,6 +34,10 @@ $t_{d} = 24ln(2)t_{r}$ (hrs).
 
 Additionally, the code calculates the Chi-Squared from the model and time-series data points. The Chi-squared is devided by the number of degrees of freedom in the model to determine the normalized Chi-squared. The visualization shows the flux variability as well as the gamma-ray energy that escaped during the flare, the pair of results can be used to determined the gamma-ray emission Doppler factors, the sizes of the gamma-ray emission regions, and their distances from the super-massive black hole of 3C 279.
 
+<p align="center">
+  <img align="center" width="700" height="600" src="https://github.com/T3kan0/Light_Curve_Temp_Profile/blob/main/3C279_Temp_Prof.png">
+</p>
+
  ![picture alt](https://github.com/T3kan0/Light_Curve_Temp_Profile/blob/main/3C279_Temp_Prof.png)
  
  ![picture alt](https://github.com/T3kan0/Light_Curve_Temp_Profile/blob/main/Opt_params.png)
